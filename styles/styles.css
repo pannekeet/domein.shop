@@ -197,8 +197,7 @@ header {
 }
 
 .faq-details {
-    margin-block: 24px; /* used this instead of "margin" to keep the same width as "callcenter.jpg" */
-
+    margin-block: 24px;
 }
 
 .faq-foldable {
@@ -208,7 +207,11 @@ header {
 }
 
 .faq-summary {
-    margin-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.faq-summary:hover {
+    cursor: pointer;
 }
 
 /*///////////// 3.5 Footer /////////////*/
