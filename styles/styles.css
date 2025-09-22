@@ -162,10 +162,41 @@ header {
     margin: 64px 0;
 }
 
+.testimonial-article {
+    margin: 64px 0;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    padding: 64px 96px 64px 148px;
+    position: relative;
+}
+
+.testimonial-icon-quote {
+    position: absolute;
+    left: 96px;
+    top: 64px;
+
+}
+
+.testimonial-blockquote {
+    margin-bottom: 24px;
+}
+
+.testimonial-avatar {
+    width: 44px;
+    height: 44px;
+    vertical-align: middle;
+}
+
+.testimonial-name {
+    display: inline;
+    font-style: italic;
+    margin-left: 24px
+}
+
 /*///////////// 3.3 Support /////////////*/
 
 .support-section {
-    margin: 64px 0;
+    margin: 100px 0;
 }
 
 .support-image {
