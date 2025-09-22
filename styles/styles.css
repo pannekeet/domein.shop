@@ -46,7 +46,7 @@ main {
 ////////////////////////*/
 
 h1 {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 120px;
     text-align: center;
 }
@@ -83,7 +83,7 @@ button {
 }
 
 .support-button:hover {
-    color: #FFF;
+    color: #1C2B32;
     cursor: pointer;
 }
 
@@ -120,7 +120,7 @@ header {
     max-width: 1000px;
     text-align: center;
     margin: 0 auto;
-    padding: 200px 0 400px 0;
+    padding: 150px 0 500px 0;
 }
 
 .header-input {
